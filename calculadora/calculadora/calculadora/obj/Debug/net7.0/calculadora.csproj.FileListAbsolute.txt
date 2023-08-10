@@ -1,0 +1,15 @@
+c:\Users\Italo Samuel\Desktop\calculadora\calculadora\calculadora\bin\Debug\net7.0\calculadora.exe
+c:\Users\Italo Samuel\Desktop\calculadora\calculadora\calculadora\bin\Debug\net7.0\calculadora.deps.json
+c:\Users\Italo Samuel\Desktop\calculadora\calculadora\calculadora\bin\Debug\net7.0\calculadora.runtimeconfig.json
+c:\Users\Italo Samuel\Desktop\calculadora\calculadora\calculadora\bin\Debug\net7.0\calculadora.dll
+c:\Users\Italo Samuel\Desktop\calculadora\calculadora\calculadora\bin\Debug\net7.0\calculadora.pdb
+c:\Users\Italo Samuel\Desktop\calculadora\calculadora\calculadora\obj\Debug\net7.0\calculadora.csproj.AssemblyReference.cache
+c:\Users\Italo Samuel\Desktop\calculadora\calculadora\calculadora\obj\Debug\net7.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Italo Samuel\Desktop\calculadora\calculadora\calculadora\obj\Debug\net7.0\calculadora.AssemblyInfoInputs.cache
+c:\Users\Italo Samuel\Desktop\calculadora\calculadora\calculadora\obj\Debug\net7.0\calculadora.AssemblyInfo.cs
+c:\Users\Italo Samuel\Desktop\calculadora\calculadora\calculadora\obj\Debug\net7.0\calculadora.csproj.CoreCompileInputs.cache
+c:\Users\Italo Samuel\Desktop\calculadora\calculadora\calculadora\obj\Debug\net7.0\calculadora.dll
+c:\Users\Italo Samuel\Desktop\calculadora\calculadora\calculadora\obj\Debug\net7.0\refint\calculadora.dll
+c:\Users\Italo Samuel\Desktop\calculadora\calculadora\calculadora\obj\Debug\net7.0\calculadora.pdb
+c:\Users\Italo Samuel\Desktop\calculadora\calculadora\calculadora\obj\Debug\net7.0\calculadora.genruntimeconfig.cache
+c:\Users\Italo Samuel\Desktop\calculadora\calculadora\calculadora\obj\Debug\net7.0\ref\calculadora.dll

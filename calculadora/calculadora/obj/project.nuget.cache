@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "scdlXIMinLprVOUvYoVbDtOjON8Eu2Ai+z/YUm6fLkQiYmhQSMpjIOXEjCTKmXAHBD00eWmSVqBnOEo8e2E9RQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Italo Samuel\\Desktop\\calculadora\\calculadora\\calculadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Italo Samuel\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Italo Samuel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Italo Samuel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Italo Samuel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
